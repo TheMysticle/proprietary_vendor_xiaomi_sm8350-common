@@ -643,10 +643,9 @@ PRODUCT_PACKAGES += \
     wifidisplayhalservice \
     xtra-daemon \
     dpmd \
-    wfdservice64 \
     vendor.dolby_sp.hardware.dmssp@2.0-service \
     vendor.dolby_sp.media.c2@1.0-service \
-    vendor.dolby_v3_6.hardware.dms360@2.0-service
+    vendor.dolby_v3_6.hardware.dms360@2.0-service \
     wfdservice
 
 PRODUCT_PACKAGES += \
